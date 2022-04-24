@@ -9,8 +9,6 @@ Run by command: kotlin hello_world.kt
 Purpose of software:
 Intro to Kotlin Language
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
@@ -19,7 +17,6 @@ Tools Used:
 VS Code on MacOS to code and run Kotlin in a .kt file
 Terminal on MacOS to install kotlin
 
-{Describe the programming language that you used}
 Language Used:
 Kotlin
 
